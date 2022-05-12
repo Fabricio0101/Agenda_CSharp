@@ -1,0 +1,12 @@
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.frmCadastroContato.resources
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.frmPrincipal.resources
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\fabri.FABRICIOPC\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
